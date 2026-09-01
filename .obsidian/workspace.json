@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "51896d939d010f4a",
+    "id": "97d685e8fc0ffb44",
     "type": "split",
     "children": [
       {
-        "id": "7b414b35cf308cda",
+        "id": "cd65063c9a26bb56",
         "type": "tabs",
         "children": [
           {
-            "id": "e2912653b1c15d53",
+            "id": "3f549e430bd53c2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Youtube.md",
+                "file": "TODO List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Youtube"
+              "title": "TODO List"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed6735333fc8286b",
+    "id": "82a6fef2e82fd3c0",
     "type": "split",
     "children": [
       {
-        "id": "2dc921fe772208e5",
+        "id": "428cbb2271196633",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3ea69a6c70abfa",
+            "id": "f60a98d435c7cbf6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "e8f8a5a35fe7d1e3",
+            "id": "30441549f3a87701",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,17 +63,20 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
-            "id": "522e4464e184b69d",
+            "id": "3cbe262a56387e0e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
@@ -83,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "6dffaf3980001737",
+    "id": "6df882145b492291",
     "type": "split",
     "children": [
       {
-        "id": "ea1d8f7c901cf62b",
+        "id": "f32eb8f75440fbda",
         "type": "tabs",
         "children": [
           {
-            "id": "82116fb37d147632",
+            "id": "f3185616c9538960",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "TODO List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Rétroliens"
             }
           },
           {
-            "id": "2ff46a0aa2015ee9",
+            "id": "f02fa9415c49e367",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "TODO List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Liens sortants"
             }
           },
           {
-            "id": "f9ca0aaea56f24ef",
+            "id": "30bbefb6ed9a6dd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,11 +138,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
-            "id": "fc6754e1454d6a04",
+            "id": "9d018bd1cdd1b02a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,22 +152,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Toutes les propriétés"
             }
           },
           {
-            "id": "caf5ad9ef8aeae0d",
+            "id": "63b3b09b2924287e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "TODO List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Plan"
             }
           }
         ]
@@ -176,62 +179,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "e2912653b1c15d53",
+  "active": "f60a98d435c7cbf6",
   "lastOpenFiles": [
-    "TODO List.md",
-    "Youtube.md",
-    "Cosori/Vidéo.md",
-    "Cosori",
-    "Investissement/Perso/Financement.md",
-    "Investissement/Perso/Compromis de vente.md",
-    "Investissement/IPNI.md",
-    "Investissement/Sans titre.md",
-    "TODO List Board.md",
-    "Investissement/Digimo/Réunion 09 juillet 2026.md",
-    "Investissement/Digimo",
-    "Investissement/Choix logiciel compta LMNP.md",
-    "Investissement/Yomoni.md",
-    "Investissement/Lcl/rendez vous 30 mai 2026.md",
-    "Investissement/Lcl/Lcl.md",
-    "Investissement/Lcl",
-    "Recette.md",
-    "A regarder.md",
-    "Lotissement (à supprimer après envoi).md",
-    "Kahoot Anniversaire Lucas.md",
-    "Investissement/Perso/Digimo.md",
-    "Investissement/Perso/AG La rivière.md",
-    "Investissement/CAP Finance/Hugo Blanchard.md",
-    "Assurance/206/206.md",
-    "Assurance/Duster/Assurance.md",
-    "Investissement/Appartement résidence étudiante/AG 2026 Résidence la rivière.md",
-    "Screenshot 2026-02-04 at 02.28.00.png",
-    "Screenshot 2026-02-04 at 02.51.10.png",
-    "Veille/Spring.md",
-    "Veille/Lien youtube Devfest 2025.md",
-    "Veille/Livre à lire.md",
-    "Assurance/206",
-    "Assurance",
-    "Investissement/SFEIR",
-    "Investissement/Hugo Blanchard/Untitled",
-    "Investissement/CAP Finance",
-    "Screenshot 2026-02-04 at 03.48.07.png",
-    "Screenshot 2026-02-04 at 03.12.40.png",
-    "Screenshot 2026-02-04 at 03.12.02.png",
-    "Screenshot 2026-02-04 at 03.11.52.png",
-    "Screenshot 2026-02-04 at 03.02.54.png",
-    "Screenshot 2026-02-04 at 03.02.25.png",
-    "Screenshot 2026-02-04 at 02.58.28.png",
-    "Assurance/Duster",
-    "Elina/Lycée"
+    "TODO List Board.md"
   ]
 }

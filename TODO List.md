@@ -81,14 +81,21 @@ Pas d'appel de fond, car gérer par l'exploitant
 + [x] Appeler Orange pour ma mère #Important #PasUrgent ✅ 2026-08-17
 + [x] Scanner acte de ventre #Important #PasUrgent ✅ 2026-08-14
 + [x] Renvoyer module shelly à Amazon #Important #Urgent ✅ 2026-08-17
-+ [ ] Demander code Amarris #Important #PasUrgent 
 + [ ] Récupérer administration ordinateur Elina
 	+ [ ] Récupérer fichier compte paysdelaloire #Important #Urgent 
 
-+ [ ] Changer interrupteur volet chambre Elina #Important #PasUrgent 
++ [x] Changer interrupteur volet chambre Elina #Important #PasUrgent ✅ 2026-08-29
 + [ ] Nettoyer volet extérieur bas #PasUrgent #PasImportant 
 + [ ] Nettoyer volet intérieur et extérieur étage #PasUrgent #PasImportant 
 + [x] Tester connexion réseau tv #Important #PasUrgent ✅ 2026-08-18
++ [ ] Envoyer disponibilité Hugo Blanchard #PasImportant #PasUrgent 
++ [ ] Faire texte Justine #Important #Urgent 
++ [x] Couper Cheveux #PasImportant #PasUrgent ✅ 2026-08-31
++ [x] Installer module Shelly #Important #Urgent ✅ 2026-08-31
++ [ ] Répondre à Digimo #Important #Urgent 
+	+ [ ] René cassin
+	+ [ ] Amarris
++ [x] Faire part Anniversaire Elina #Important #Urgent ✅ 2026-08-29
 
 gisele pretet: 02 49 57 03 04
 
