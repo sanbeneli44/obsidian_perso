@@ -1,3 +1,10 @@
 [
-  "github-sync"
+  "github-sync",
+  "automatic-table-of-contents",
+  "better-export-pdf",
+  "editing-toolbar",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "obsidian-to-anki-plugin",
+  "obsidian-tasks-plugin"
 ]

@@ -48,7 +48,7 @@
 + [/] Envoyer mail aux impots pour les logements #Important #PasUrgent 
 + [x] Renvoyer grille de protection air fryer #Important #Urgent ✅ 2026-07-08
 + [x] Combler trou jardin #PasImportant #PasUrgent ✅ 2026-07-18
-+ [ ] Message hugo pour changer bénéficiaire assurance vie #Important #PasUrgent 
++ [x] Message hugo pour changer bénéficiaire assurance vie #Important #PasUrgent ✅ 2026-09-06
 + [x] Récupérer bulletin de note terminale #Important #Urgent ✅ 2026-07-08
 + [x] Faire fonctionner la carte bleu d'Elina #Important #Urgent ✅ 2026-07-18
 + [x] Finaliser inscription UCO #Important #Urgent ✅ 2026-07-07
@@ -81,21 +81,28 @@ Pas d'appel de fond, car gérer par l'exploitant
 + [x] Appeler Orange pour ma mère #Important #PasUrgent ✅ 2026-08-17
 + [x] Scanner acte de ventre #Important #PasUrgent ✅ 2026-08-14
 + [x] Renvoyer module shelly à Amazon #Important #Urgent ✅ 2026-08-17
-+ [ ] Récupérer administration ordinateur Elina
-	+ [ ] Récupérer fichier compte paysdelaloire #Important #Urgent 
++ [/] Récupérer administration ordinateur Elina
+	+ [x] Récupérer fichier compte paysdelaloire #Important #Urgent ✅ 2026-09-06
 
 + [x] Changer interrupteur volet chambre Elina #Important #PasUrgent ✅ 2026-08-29
 + [ ] Nettoyer volet extérieur bas #PasUrgent #PasImportant 
 + [ ] Nettoyer volet intérieur et extérieur étage #PasUrgent #PasImportant 
 + [x] Tester connexion réseau tv #Important #PasUrgent ✅ 2026-08-18
-+ [ ] Envoyer disponibilité Hugo Blanchard #PasImportant #PasUrgent 
-+ [ ] Faire texte Justine #Important #Urgent 
++ [ ] Envoyer disponibilité Hugo Blanchard #PasImportant #PasUrgent #CeWeekEnd
++ [/] Faire texte Justine #Important #Urgent #CeWeekEnd
 + [x] Couper Cheveux #PasImportant #PasUrgent ✅ 2026-08-31
 + [x] Installer module Shelly #Important #Urgent ✅ 2026-08-31
-+ [ ] Répondre à Digimo #Important #Urgent 
-	+ [ ] René cassin
-	+ [ ] Amarris
++ [x] Répondre à Digimo #Important #Urgent ✅ 2026-09-06
+	+ [x] René cassin ✅ 2026-09-06
+	+ [x] Amarris ✅ 2026-09-06
 + [x] Faire part Anniversaire Elina #Important #Urgent ✅ 2026-08-29
++ [ ] Prendre licence Tchac #Important #PasUrgent #CeWeekEnd
++ [ ] Déclarer Elina sur mutuelle #CeWeekEnd
+	+ [ ] imprimer attestation honneur enfant scolarisé sans activité professionnel ou revenu < 65% du smic #Important #PasUrgent 
+	+ [ ] imprimer attestation sur l'honneur Enfant fiscalement à Charge #Important #PasUrgent 
++ [ ] Aider Sandrine à faire ses textes pour anniversaire mariage py et steph #Important #Urgent #CeWeekEnd
++ [ ] Déclaration CNAS étude Elina #Important #Urgent #CeWeekEnd
++ [ ] Remplacer système tiroir cuisine #Important #Urgent  #CeWeekEnd
 
 gisele pretet: 02 49 57 03 04
 
